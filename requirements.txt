@@ -1,0 +1,12 @@
+# Compatibility ranges, not a fully reproduced environment lock.
+tensorflow>=2.16,<2.19
+numpy>=1.26,<2
+pandas>=2.1,<3
+scipy>=1.11,<2
+scikit-learn>=1.3,<2
+matplotlib>=3.8,<4
+seaborn>=0.13,<0.14
+neurokit2>=0.2.7,<0.3
+numba>=0.59,<0.62
+opendatasets>=0.1.22,<0.2
+jupyterlab>=4,<5

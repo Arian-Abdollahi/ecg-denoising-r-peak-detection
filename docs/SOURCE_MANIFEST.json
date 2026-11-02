@@ -1,0 +1,47 @@
+{
+  "source_archives": [
+    "Sec2.rar"
+  ],
+  "source_files": [
+    {
+      "file": "LSTM.ipynb",
+      "bytes": 434032,
+      "sha256": "40fb18e6ebde9f4701f3ed1c4a6480665dddc75d22fb0716a04fce1cc88f7ecc"
+    },
+    {
+      "file": "Pos_Peaks_GRU (1).ipynb",
+      "bytes": 1110234,
+      "sha256": "ec8446273bc225abef931c9078cec7d6ad6ea482bd99e087b23ad02c1cbbedcf"
+    },
+    {
+      "file": "Pos_Peaks_Main.ipynb",
+      "bytes": 51146,
+      "sha256": "0444e5f78305fcd07c1db298a74406658442076a851ed877184d13b256b48217"
+    },
+    {
+      "file": "Report 2.docx",
+      "bytes": 1518320,
+      "sha256": "b8b19a0206df9e90a9774266c967dd3db0ece2468fbe9d853c64f7ee6090f632"
+    },
+    {
+      "file": "Report 2.pdf",
+      "bytes": 1747032,
+      "sha256": "18c0c982986eb2b7fbd1975148a1b4356630339c4e4e4ce575a5abf83de683ba"
+    },
+    {
+      "file": "patient_split.json",
+      "bytes": 966,
+      "sha256": "83554a7acfa1ab8465c7b2507790d752dcad4c9882f2bd70c7181328123f5b4e"
+    }
+  ],
+  "report_pages": {
+    "source": 18,
+    "published": 17,
+    "omitted_source_pages_one_based": [
+      1
+    ]
+  },
+  "credentials": "Credential JSON excluded; bot token removed where present. No credential values recorded.",
+  "originals": "Original ECG notebooks and split JSON preserved byte-for-byte.",
+  "adapted_notebooks": "Paths/setup only, no analytical redesign; historical outputs cleared in notebook copies."
+}
